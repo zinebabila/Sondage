@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sondage App</string>
+    <string name="textview">Question: Est-ce que vous appreciez le Black-Friday ?</string>
+    <string name="todo">TODO</string>
+</resources>
